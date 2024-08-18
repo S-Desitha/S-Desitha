@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://github.com/S-Desitha/S-Desitha/blob/b5ee734f775303452e985256754f534e2b30e5fc/S-Desitha%20banner2.png"> </div>
+<div align="center"> <img src="https://github.com/S-Desitha/S-Desitha/blob/b988fec24556b6f8c53db681db34688aa632fd68/S-Desitha%20banner2.png"> </div>
 <h3 align="center">A passionate individual focused on DevOps and Cloud solutions, I thrive on continuous learning and growth. I value clear communication, teamwork, and always aim to deliver top-notch results through innovative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-desitha&label=Profile%20views&color=0e75b6&style=flat" alt="s-desitha" /> </p>
