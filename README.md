@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sathira Gardihewa</h1>
+###<h1 align="center">Hi 👋, I'm Sathira Gardihewa</h1>
 <div align="center"> <img src="https://github.com/S-Desitha/S-Desitha/blob/b5ee734f775303452e985256754f534e2b30e5fc/S-Desitha%20banner.png"> </div>
 <h3 align="center">A passionate individual focused on DevOps and Cloud solutions, I thrive on continuous learning and growth. I value clear communication, teamwork, and always aim to deliver top-notch results through innovative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services, Azure, Terraform , Ansible, Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/S-Desitha](https://github.com/S-Desitha)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/S-Desitha?tab=repositories)
 
 - 📫 How to reach me **sathiradesdith@gmail.com**
 
