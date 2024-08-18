@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sathira Gardihewa</h1>
+<div align="center"> <img src="https://github.com/S-Desitha/S-Desitha/blob/b5ee734f775303452e985256754f534e2b30e5fc/S-Desitha%20banner.png"> </div>
 <h3 align="center">A passionate individual focused on DevOps and Cloud solutions, I thrive on continuous learning and growth. I value clear communication, teamwork, and always aim to deliver top-notch results through innovative solutions.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-desitha&label=Profile%20views&color=0e75b6&style=flat" alt="s-desitha" /> </p>
 
 - 🔭 I’m currently working on [ProdStudio](https://github.com/S-Desitha/prodstudio-backend.git)
 
 - 🌱 I’m currently learning **Amazon Web Services, Azure, Terraform , Ansible, Docker**
 
+- 👨‍💻 All of my projects are available at [https://github.com/S-Desitha](https://github.com/S-Desitha)
+
+- 📫 How to reach me **sathiradesdith@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sathira desitha gardihewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathira desitha gardihewa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gsd-gardihewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathira desitha gardihewa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-desitha&" alt="s-desitha" /></p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=s-desitha&limit=5&theme=flat&combine_all_yearly_contributions=true)
